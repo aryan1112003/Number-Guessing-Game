@@ -17,7 +17,7 @@ Hey GitHub community! 👋 I've created a simple and interactive Number Guessing
 
 1. Clone the repository to your local machine.
    ```bash
-   git clone https://github.com/yourusername/NumberGuessingGame.git
+   git clone https://github.com/aryan1112003/NumberGuessingGame.git
    ```
 
 2. Run the game using Python.
@@ -50,12 +50,3 @@ Feel free to contribute, open issues, or suggest improvements. I welcome your fe
 
 This project is created by Aryan Anandpraksah Acharya. It uses the Tkinter library for the GUI and is open for contributions.
 
-### License:
-
-This project is licensed under the [MIT License](LICENSE.md).
-
-Enjoy the game, and happy coding! 🚀
-
----
-
-Feel free to customize the content to better suit your preferences and provide more details about the project. Make sure to include relevant images/screenshots and update placeholders like `[Your Name]` and the repository URL accordingly.
