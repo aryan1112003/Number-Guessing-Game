@@ -1,11 +1,6 @@
-Certainly! Here's a sample content for a GitHub post for your Number Guessing Game:
-
----
-
 # Number Guessing Game in Python using Tkinter
 
-![image](https://github.com/aryan1112003/Number-Guessing-Game/assets/67147314/d505da4c-e811-4e90-9a92-81ad60bbabed)
-
+![image](https://github.com/aryan1112003/Number-Guessing-Game/assets/67147314/49577d01-fe60-41e0-9a7d-ea3597bbc365)
 
 Hey GitHub community! 👋 I've created a simple and interactive Number Guessing Game using Python and Tkinter. This game allows you to guess a randomly generated number within a specified range and provides various features, including different difficulty levels, custom range setting, time limits, and even a friend mode for multiplayer fun.
 
@@ -36,6 +31,14 @@ Hey GitHub community! 👋 I've created a simple and interactive Number Guessing
 ### Screenshots:
 
 ![image](https://github.com/aryan1112003/Number-Guessing-Game/assets/67147314/5819e81d-921c-47e5-8b22-99c0bb130254)
+![image](https://github.com/aryan1112003/Number-Guessing-Game/assets/67147314/f2c71f55-126d-47f2-8bf5-22a64dcef00b)
+![image](https://github.com/aryan1112003/Number-Guessing-Game/assets/67147314/47d58511-9fca-47c5-baf7-740d2f00ad61)
+![image](https://github.com/aryan1112003/Number-Guessing-Game/assets/67147314/0d2622ca-dd40-4a4d-8ba2-8faec47445d1)
+![image](https://github.com/aryan1112003/Number-Guessing-Game/assets/67147314/ba5a34cc-ffc9-47fc-9779-f7407bf5b4bb)
+![image](https://github.com/aryan1112003/Number-Guessing-Game/assets/67147314/2c5e101c-edfc-4f02-b3b6-167fb776a8ca)
+
+
+
 
 
 
